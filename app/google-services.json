@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "656580026670",
+    "firebase_url": "https://pdf-manager-v01.firebaseio.com",
+    "project_id": "pdf-manager-v01",
+    "storage_bucket": "pdf-manager-v01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656580026670:android:e47a73edbc349bc6",
+        "android_client_info": {
+          "package_name": "com.example.pdfmanagerv01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656580026670-hrpdont4cq8o6390o49kre3tu0mg3t2a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pdfmanagerv01",
+            "certificate_hash": "be3e48b82a926d2a7390f1898fcc9ef071534fa3"
+          }
+        },
+        {
+          "client_id": "656580026670-77v7a5jsat7s3mqf93hlhqi0tk8lvmo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYSr41XkuzuWbpJllvJGkPrW6k0gEilQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656580026670-77v7a5jsat7s3mqf93hlhqi0tk8lvmo3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
